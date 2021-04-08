@@ -8,8 +8,7 @@
 wget https://raw.githubusercontent.com/Ramprakashp9/OCS/main/CaCert.pem
 
 wget  https://github.com/Ramprakashp9/OCS/raw/main/Ocsinventory-Unix-Agent-2.4.2.tar.gz
- 
-wget https://raw.githubusercontent.com/Ramprakashp9/OCS/main/ocsinventory-agent.cfg
+
 
 #make system ready for ocs installation 
 apt update
