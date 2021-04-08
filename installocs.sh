@@ -57,8 +57,4 @@ apt install php-pclzip make build-essential libdbd-mysql-perl libnet-ip-perl lib
 
 make install
 
-#coping predefned configured files
-cp -f /opt/ocsinventory-agent.cfg  /etc/ocsinventory/ocsinventory-agent.cfg
-
-
 #END
