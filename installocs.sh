@@ -16,8 +16,6 @@ apt update
 
 apt upgrade -y
 
-wget https://launchpad.net/ubuntu/+source/ipmiutil/3.0.1-1/+build/11869455/+files/ipmiutil_3.0.1-1_amd64.deb
-
 apt-get --fix-broken install
 
 wget https://launchpad.net/ubuntu/+source/ipmiutil/3.0.1-1/+build/11869455/+files/ipmiutil_3.0.1-1_amd64.deb
